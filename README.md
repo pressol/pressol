@@ -16,6 +16,7 @@
 - 📫 How to reach me
   -  My Github email
 - https://mega.nz/aff=hFWLuu2WpJU
+- https://www.coinbase.com/join/opress
 <!---
 pressol/pressol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
