@@ -3,16 +3,16 @@
   - Cycling
   - Running
   - Swimming 
+  - Triathlon
   - Coding
   - Ubuntu
   - Cyber Security
 - 🌱 I’m currently learning 
-  - SDN 
-  - Virtual Networking 
-  - Docker
-  - P4
   - K8s
-- 💞️ I’m looking to collaborate on ...
+  - VSphere
+  - Jenkins
+  - Security testing
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me
   -  My Github email
 - https://mega.nz/aff=hFWLuu2WpJU
